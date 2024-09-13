@@ -7,11 +7,6 @@ import java.util.HashMap;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-
-
-
-
-
 public class WordCounting {
 	public static void main(String[] args) {
 		HashMap<String, Integer>WordsCountHash = new HashMap<String, Integer>();
