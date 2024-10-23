@@ -1,4 +1,9 @@
 package org.howard.edu.lsp.assignment5;
+/**
+ * I used this website to explain javadocs and making sure i was setting everything up properly: 
+ * https://www.geeksforgeeks.org/what-is-javadoc-tool-and-how-to-use-it/
+ 
+ */
 
 import java.util.ArrayList;
 import java.util.List;
